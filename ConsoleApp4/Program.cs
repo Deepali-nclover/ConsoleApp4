@@ -10,3 +10,9 @@ Console.WriteLine("Welcome to Clover!");
 Console.WriteLine("Welcome to Clover!");
 Console.WriteLine("Welcome to Clover!");
 Console.WriteLine("Welcome to Clover!");
+
+void myfunc()
+{
+    Console.WriteLine("Welcome to Clover!");
+   
+}
